@@ -86,4 +86,3 @@ them publicly by default. A shared database and versioned edit history are plann
 The private Sites prototype remains a separately deployed copy. A GitHub commit
 or PR does not update it. This repository is now the rebuildable source handoff;
 choose a deployment pipeline explicitly for subsequent publication.
-

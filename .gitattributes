@@ -1,0 +1,2 @@
+# Preserve the exact source snapshot bytes and checksum across Windows/Linux.
+data/chuukese/source-kaikki.jsonl -text

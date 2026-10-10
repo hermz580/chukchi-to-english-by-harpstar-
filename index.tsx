@@ -12,10 +12,10 @@ if (!rootElement) {
 if (window.location.pathname === '/') {
   window.location.replace('/chuukese/' + window.location.search + window.location.hash);
 } else {
-const root = ReactDOM.createRoot(rootElement);
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+  const root = ReactDOM.createRoot(rootElement);
+  root.render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  );
 }
