@@ -1,0 +1,74 @@
+[
+  {
+    "id": "t1",
+    "title": "Establish the dictionary foundation",
+    "status": "Done",
+    "detail": "Imported Kaikki/Wiktionary definitions with source links and awaiting-review labels. Search works in both directions. Done: meanings and attribution preserved."
+  },
+  {
+    "id": "t2",
+    "title": "Keep the roadmap and backups",
+    "status": "Done",
+    "detail": "Kanban cards can move between columns. Browser edits and tasks can be exported and restored. Done: a durable plan file and backup controls exist."
+  },
+  {
+    "id": "t11",
+    "title": "Build Unanu/Namonuito vocabulary separately",
+    "status": "Speaker review",
+    "detail": "Ask the speaker for Unanu/Namonuito words, island-specific spellings, and English meanings. Done: ten nmt-tagged records reviewed or flagged with sources; never relabel chk imports as nmt."
+  },
+  {
+    "id": "t3",
+    "title": "Choose spelling and dialect conventions",
+    "status": "Planned",
+    "detail": "Ask the speaker which island/dialect and spelling conventions they use. Done: document preferred spelling, variants, and when to retain source spellings."
+  },
+  {
+    "id": "t4",
+    "title": "First ten-word conversation",
+    "status": "Speaker review",
+    "detail": "When the speaker is available, download the review sheet. Check meanings and natural usage; record initials and notes. Done: ten entries reviewed or flagged, with a backup saved."
+  },
+  {
+    "id": "t5",
+    "title": "Audit imported entries",
+    "status": "Planned",
+    "detail": "Check extraction warnings, unusual entries, duplicate meanings, and missing forms against original pages. Done: issues logged and resolved or visibly flagged."
+  },
+  {
+    "id": "t6",
+    "title": "Build everyday vocabulary",
+    "status": "Planned",
+    "detail": "Prioritize greetings, family, food, home, school, work, and travel with the speaker. Done: agree a topic list and review 50 useful entries; retain sources."
+  },
+  {
+    "id": "t7",
+    "title": "Collect paired sentences",
+    "status": "Planned",
+    "detail": "Gather original Chuukese sentences with English meanings, context, and permission. Done: 50 reviewed sentence pairs and notes about grammar and intended meaning."
+  },
+  {
+    "id": "t8",
+    "title": "Pronunciation recordings",
+    "status": "Planned",
+    "detail": "Agree speaker consent and recording ownership before adding audio. Done: ten approved recordings linked to reviewed entries with pronunciation notes."
+  },
+  {
+    "id": "t9",
+    "title": "Shared saving across devices",
+    "status": "Planned",
+    "detail": "Choose a private shared database and speaker access after the review workflow is proven. Done: login, cross-device saving, restore checks, and an edit history."
+  },
+  {
+    "id": "t10",
+    "title": "Test sentence translation",
+    "status": "Planned",
+    "detail": "Use reviewed sentences and grammar to choose a translation approach. Done: evaluate both directions on held-out speaker-reviewed examples and display uncertainty. Requires the sentence collection; API setup only if needed."
+  },
+  {
+    "id": "t12",
+    "title": "Verify Standard Chuukese spelling",
+    "status": "Planned",
+    "detail": "Check imported Chuukese spelling and usage against the preferred standard and speaker guidance. Done: agreed conventions recorded and nonstandard/uncertain forms labeled. Imported chk does not mean standard verified."
+  }
+]
