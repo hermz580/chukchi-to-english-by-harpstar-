@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Chuukese &amp; Unanu/Namonuito Lexicon — by Harp★Star</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <a href="#" class="brand">CH / EN <span>Chuukese Lexicon</span></a>
+      <nav aria-label="Main navigation">
+        <button data-tab="dictionary" aria-pressed="true">Dictionary</button
+        ><button data-tab="review" aria-pressed="false">Speaker review</button
+        ><button data-tab="plan" aria-pressed="false">Project Kanban</button>
+      </nav>
+    </header>
+    <main>
+      <div class="intro">
+        <div>
+          <p class="eyebrow">A LIVING LANGUAGE COLLECTION · FIRST EDITION</p>
+          <h1>Words connect<br /><em>our worlds.</em></h1>
+          <p class="lede">
+            Explore Standard Chuukese, Unanu/Namonuito, and English. Keep the
+            meaning, the context, and the people who know it together.
+          </p>
+        </div>
+        <aside>
+          <span class="label">OUR NEXT STEP</span>
+          <h2>A few words.<br />A conversation.</h2>
+          <p>
+            Review ten entries with your speaker when they have time. Capture
+            what sounds natural, what differs, and what needs another look.
+          </p>
+          <button id="startReview">Open speaker review ↗</button>
+        </aside>
+      </div>
+      <div class="collection">
+        <label for="language">Vocabulary collection</label
+        ><select id="language">
+          <option value="chk">Standard Chuukese (chk)</option>
+          <option value="nmt">Unanu / Namonuito (nmt)</option>
+        </select>
+        <p id="collectionNote">
+          Chuukese starter entries are imported research material awaiting
+          speaker review; standard spelling is not yet verified.
+        </p>
+      </div>
+      <div class="stats" id="stats"></div>
+      <p class="storage">
+        Changes save in this browser on this device. Download a backup after a
+        session; use Restore backup to carry work to another device.
+      </p>
+      <div class="tools">
+        <button id="backup">Download backup</button
+        ><label class="button"
+          >Restore backup<input
+            id="restore"
+            type="file"
+            accept="application/json,.json"
+            hidden /></label
+        ><button id="batch">Download 10-word review sheet</button
+        ><button id="newEntry">Add an entry</button>
+      </div>
+      <p id="notice" role="status"></p>
+      <section id="dictionary">
+        <div class="section-title">
+          <h2>Find a word</h2>
+          <span>Word lookup in both directions</span>
+        </div>
+        <div class="searchbar">
+          <select id="direction" aria-label="Lookup direction">
+            <option value="chk">Chuukese → English</option>
+            <option value="en">English → Chuukese</option></select
+          ><input
+            id="search"
+            type="search"
+            placeholder="Search a Chuukese word…"
+            aria-label="Search dictionary"
+          /><select id="filter" aria-label="Review status">
+            <option value="all">All entries</option>
+            <option value="unreviewed">Awaiting review</option>
+            <option value="reviewed">Speaker reviewed</option>
+            <option value="question">Needs discussion</option>
+          </select>
+        </div>
+        <p class="hint">
+          Search also finds spellings without accent marks. Results retain the
+          source spelling. English lookup searches definitions; it does not
+          translate whole sentences.
+        </p>
+        <p id="resultCount" aria-live="polite"></p>
+        <div id="results"></div>
+        <button id="more" hidden>Show more entries</button>
+      </section>
+      <section id="review" hidden>
+        <div class="section-title">
+          <h2>Small sessions, lasting knowledge</h2>
+          <span>No speaker reviews recorded yet</span>
+        </div>
+        <p>
+          Choose an entry to record a correction, spelling variant, example, or
+          dialect note. Mark it reviewed only after your speaker confirms it.
+          Editing a reviewed entry sends it back for review.
+        </p>
+        <div id="reviewList"></div>
+      </section>
+      <section id="plan" hidden>
+        <div class="section-title">
+          <h2>The plan stays with the project.</h2>
+          <button id="addTask">Add a task</button>
+        </div>
+        <p>
+          Move a card with its status menu. Each card includes a concrete next
+          action and a definition of done.
+        </p>
+        <div id="board" class="board"></div>
+      </section>
+      <footer>
+        <p>by <a href="https://harpstarunlimited.com">Harp★Star</a></p>
+        <h3>Built on sources. Improved through conversation.</h3>
+        <p>
+          Starter definitions adapted from
+          <a
+            href="https://kaikki.org/dictionary/Chuukese/index.html"
+            target="_blank"
+            rel="noopener"
+            >Kaikki / Wiktionary</a
+          >, downloaded October 10, 2026. Each imported entry links to its
+          Wiktionary page and contributor history. Imported data is unreviewed
+          and may contain errors.
+        </p>
+        <p>
+          Adapted dictionary data:
+          <a
+            href="https://creativecommons.org/licenses/by-sa/4.0/"
+            target="_blank"
+            rel="noopener"
+            >CC BY-SA 4.0</a
+          >; original data also available under GFDL. Meanings were retained,
+          with review fields added.
+          <a href="data/entries.json" download>Download starter data</a> ·
+          <a
+            href="https://en.wiktionary.org/wiki/Wiktionary:Copyrights"
+            target="_blank"
+            rel="noopener"
+            >Source licensing</a
+          >
+        </p>
+        <p>
+          Full-sentence translation, audio capture, and shared online saving are
+          on the Kanban for future work.
+        </p>
+      </footer>
+    </main>
+    <dialog id="editor">
+      <form id="entryForm">
+        <div class="section-title">
+          <h2 id="editTitle">Review an entry</h2>
+          <button type="button" id="closeEditor">Close</button>
+        </div>
+        <input name="id" type="hidden" /><label
+          >Collection<select name="languageCode">
+            <option value="chk">Standard Chuukese (chk)</option>
+            <option value="nmt">Unanu / Namonuito (nmt)</option>
+          </select></label
+        ><label>Word<input name="word" required maxlength="200" /></label
+        ><label
+          >English meanings (one per line)<textarea
+            name="meanings"
+            required
+            rows="4"
+            maxlength="10000"
+          ></textarea>
+        </label>
+        <div class="formgrid">
+          <label>Word type<input name="pos" maxlength="100" /></label
+          ><label
+            >Dialect / island (if known)<input name="dialect" maxlength="200"
+          /></label>
+        </div>
+        <label
+          >Alternate spellings, corrections, and usage notes<textarea
+            name="notes"
+            rows="3"
+            maxlength="10000"
+          ></textarea>
+        </label>
+        <div class="formgrid">
+          <label
+            >Source-language example<textarea
+              name="exampleChuukese"
+              maxlength="5000"
+            ></textarea></label
+          ><label
+            >English example<textarea
+              name="exampleEnglish"
+              maxlength="5000"
+            ></textarea>
+          </label>
+        </div>
+        <label
+          >Source URL (optional for contributed entries)<input
+            name="source"
+            type="url"
+            maxlength="2000" /></label
+        ><label
+          >Speaker / reviewer name or initials<input
+            name="reviewer"
+            maxlength="200" /></label
+        ><label
+          >Status<select name="status">
+            <option value="unreviewed">Awaiting review</option>
+            <option value="question">Needs discussion</option>
+            <option value="reviewed">Speaker reviewed</option>
+          </select></label
+        >
+        <p>
+          “Speaker reviewed” requires a reviewer name or initials. Keep examples
+          paired and flag uncertain meanings.
+        </p>
+        <button type="submit" class="primary">Save entry</button>
+      </form>
+    </dialog>
+    <dialog id="taskEditor">
+      <form id="taskForm">
+        <div class="section-title">
+          <h2>Project task</h2>
+          <button type="button" id="closeTask">Close</button>
+        </div>
+        <input name="id" type="hidden" /><label
+          >Task title<input name="title" required maxlength="300" /></label
+        ><label
+          >Next action and definition of done<textarea
+            name="detail"
+            required
+            rows="5"
+            maxlength="10000"
+          ></textarea></label
+        ><label
+          >Status<select name="status">
+            <option>Planned</option>
+            <option>In progress</option>
+            <option>Speaker review</option>
+            <option>Done</option>
+          </select></label
+        ><button class="primary">Save task</button>
+      </form>
+    </dialog>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

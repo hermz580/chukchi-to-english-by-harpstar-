@@ -20,6 +20,12 @@ async function startServer() {
   const port = Number(process.env.PORT || 3000);
   app.use(express.json({ limit: "64kb" }));
 
+  // The Chuukese/Namonuito lexicon is the project front door.
+  // The older Chukchi UI remains at /legacy/chukchi for source continuity.
+  app.get("/", (_req, res) => res.redirect("/chuukese/"));
+  const lexiconPath = path.join(process.cwd(), process.env.NODE_ENV === "production" ? "dist" : "public", "chuukese");
+  app.use("/chuukese", express.static(lexiconPath));
+
   app.get("/api/health", (_req, res) => res.json({ ok: true, service: "chukchi-bridge" }));
   app.post("/api/translate", async (req, res) => {
     const { text, direction } = req.body ?? {};
