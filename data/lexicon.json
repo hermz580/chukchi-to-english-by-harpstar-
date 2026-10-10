@@ -1,0 +1,2970 @@
+{
+  "schemaVersion": "0.3.0",
+  "language": "ckt",
+  "languageName": "Chukchi",
+  "targetLanguage": "en",
+  "targetLanguageName": "English",
+  "generatedFrom": "Wiktionary Chukchi lemmas category, parsed only where a Chukchi section has an explicit gloss",
+  "generatedAt": "2026-10-10",
+  "reviewPolicy": "Entries are research leads. quarantine entries must not be used as translation truth. Promotion requires source verification and fluent-speaker or primary-dictionary review for uncertain orthography, morphology, glosses, IPA, transliteration, and examples.",
+  "sources": [
+    "https://en.wiktionary.org/wiki/Category:Chukchi_lemmas",
+    "https://lingsib.iea.ras.ru/en/languages/chukchi.shtml",
+    "https://chukdict.com/"
+  ],
+  "entries": [
+    {
+      "id": "wiktionary-ckt-0001",
+      "lemma": "алфавит",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "alphabet"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0002",
+      "lemma": "алфавит",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "alphabet"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0003",
+      "lemma": "алфавит",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "alphabet"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0004",
+      "lemma": "алфавит",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "alphabet"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0005",
+      "lemma": "алфавит",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "alphabet",
+        "alphabetical index"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate/unsupported alphabetical-index artifact"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0006",
+      "lemma": "алфавит",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "alphabet"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0007",
+      "lemma": "гым",
+      "transliteration": null,
+      "ipa": "/ɣəm/",
+      "partOfSpeech": "pronoun",
+      "glosses": [
+        "I first-person singular, absolutive case"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B3%D1%8B%D0%BC",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B3%D1%8B%D0%BC",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0008",
+      "lemma": "мимыл",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "water"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BC%D1%8B%D0%BB",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BC%D1%8B%D0%BB",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0009",
+      "lemma": "мачо",
+      "transliteration": null,
+      "ipa": "/mat͡ɕo/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "chest, breast"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0010",
+      "lemma": "мачо",
+      "transliteration": null,
+      "ipa": "/mat͡ɕo/",
+      "partOfSpeech": "adjective",
+      "glosses": [
+        "macho"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0011",
+      "lemma": "мачо",
+      "transliteration": null,
+      "ipa": "/mat͡ɕo/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "macho"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0012",
+      "lemma": "мачо",
+      "transliteration": null,
+      "ipa": "/mat͡ɕo/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "macho"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%BE",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0013",
+      "lemma": "мынгыткэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "ten"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D0%BD%D0%B3%D1%8B%D1%82%D0%BA%D1%8D%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D0%BD%D0%B3%D1%8B%D1%82%D0%BA%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0014",
+      "lemma": "мынгыткэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "ten"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D0%BD%D0%B3%D1%8B%D1%82%D0%BA%D1%8D%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D0%BD%D0%B3%D1%8B%D1%82%D0%BA%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0015",
+      "lemma": "атэ",
+      "transliteration": null,
+      "ipa": "/ate/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "daddy, dad"
+      ],
+      "examples": [
+        {
+          "source": "Атэй, ивкэ ӄыниԓьэтытку",
+          "target": "Daddy, sing a song for us",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8D",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8D",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8D",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0016",
+      "lemma": "атэ",
+      "transliteration": null,
+      "ipa": "/ate/",
+      "partOfSpeech": "adjective",
+      "glosses": [
+        "a lot, A large amount"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8D",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8D",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "non-Chukchi language contamination reported by English review"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0017",
+      "lemma": "атэ",
+      "transliteration": null,
+      "ipa": "/ate/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "stack"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8D",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8D",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "non-Chukchi language contamination reported by English review"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0018",
+      "lemma": "валы",
+      "transliteration": null,
+      "ipa": "/walə/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "knife"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BB%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BB%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0019",
+      "lemma": "ӄораӈы",
+      "transliteration": null,
+      "ipa": "/qoraŋə/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "(domesticated) reindeer"
+      ],
+      "examples": [
+        {
+          "source": "Ӄораӈы гатвыԓен аӈӄагты",
+          "target": "The reindeer had been consecrated to the sea",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D3%84%D0%BE%D1%80%D0%B0%D3%88%D1%8B",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D3%84%D0%BE%D1%80%D0%B0%D3%88%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%84%D0%BE%D1%80%D0%B0%D3%88%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0020",
+      "lemma": "ԓыгъоравэтԓьан",
+      "transliteration": null,
+      "ipa": "[ɬəɣʔorawetɬʔan]",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "Chukchi, Chukchi people"
+      ],
+      "examples": [
+        {
+          "source": "Ы’твэ пыкиргъэт Ӄончьайпы ԓыгъоравэтԓьат",
+          "target": "Chukchi came by boat from Qonsan",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D4%93%D1%8B%D0%B3%D1%8A%D0%BE%D1%80%D0%B0%D0%B2%D1%8D%D1%82%D4%93%D1%8C%D0%B0%D0%BD",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D4%93%D1%8B%D0%B3%D1%8A%D0%BE%D1%80%D0%B0%D0%B2%D1%8D%D1%82%D4%93%D1%8C%D0%B0%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D4%93%D1%8B%D0%B3%D1%8A%D0%BE%D1%80%D0%B0%D0%B2%D1%8D%D1%82%D4%93%D1%8C%D0%B0%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0021",
+      "lemma": "нымытвак",
+      "transliteration": null,
+      "ipa": "[nəmətwakx]",
+      "partOfSpeech": "verb",
+      "glosses": [
+        "to live, to dwell"
+      ],
+      "examples": [
+        {
+          "source": "Ӈаԓгыԓегты ръачо нынымытваӄэнат",
+          "target": "They lived separately on both sides (of the inner tent)",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D0%BD%D1%8B%D0%BC%D1%8B%D1%82%D0%B2%D0%B0%D0%BA",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D0%BD%D1%8B%D0%BC%D1%8B%D1%82%D0%B2%D0%B0%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BD%D1%8B%D0%BC%D1%8B%D1%82%D0%B2%D0%B0%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0022",
+      "lemma": "аӈӄы",
+      "transliteration": null,
+      "ipa": "/aŋqə/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "sea"
+      ],
+      "examples": [
+        {
+          "source": "Ӄораӈы гатвыԓен аӈӄагты",
+          "target": "The reindeer had been consecrated to the sea",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D0%B0%D3%88%D3%84%D1%8B",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D3%88%D3%84%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D3%88%D3%84%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0023",
+      "lemma": "ӈирэӄ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "two"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%88%D0%B8%D1%80%D1%8D%D3%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%88%D0%B8%D1%80%D1%8D%D3%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0024",
+      "lemma": "ӄонъачгынкэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "nine"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%84%D0%BE%D0%BD%D1%8A%D0%B0%D1%87%D0%B3%D1%8B%D0%BD%D0%BA%D1%8D%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%84%D0%BE%D0%BD%D1%8A%D0%B0%D1%87%D0%B3%D1%8B%D0%BD%D0%BA%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0025",
+      "lemma": "амӈырооткэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "eight"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BC%D3%88%D1%8B%D1%80%D0%BE%D0%BE%D1%82%D0%BA%D1%8D%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%BC%D3%88%D1%8B%D1%80%D0%BE%D0%BE%D1%82%D0%BA%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0026",
+      "lemma": "гытгын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "lake"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B3%D1%8B%D1%82%D0%B3%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B3%D1%8B%D1%82%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0027",
+      "lemma": "кукэӈы",
+      "transliteration": null,
+      "ipa": "/kukeŋə/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "pot",
+        "pan"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BA%D1%8D%D3%88%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BA%D1%8D%D3%88%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0028",
+      "lemma": "мэлоталгын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "hare"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8D%D0%BB%D0%BE%D1%82%D0%B0%D0%BB%D0%B3%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8D%D0%BB%D0%BE%D1%82%D0%B0%D0%BB%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0029",
+      "lemma": "кэйӈын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "brown bear"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%8D%D0%B9%D3%88%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%8D%D0%B9%D3%88%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0030",
+      "lemma": "ӄэтаӄэт",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "Siberian salmon"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%84%D1%8D%D1%82%D0%B0%D3%84%D1%8D%D1%82",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%84%D1%8D%D1%82%D0%B0%D3%84%D1%8D%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0031",
+      "lemma": "выквын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "stone, rock"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B2%D1%8B%D0%BA%D0%B2%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B2%D1%8B%D0%BA%D0%B2%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0032",
+      "lemma": "нанӄын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "stomach"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D3%84%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D3%84%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0033",
+      "lemma": "нанӄын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "stomach"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D3%84%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D3%84%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0034",
+      "lemma": "линлиӈ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "heart"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%BB%D0%B8%D3%88",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%BB%D0%B8%D3%88",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0035",
+      "lemma": "ёкваё",
+      "transliteration": null,
+      "ipa": "/jokɸajo/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "any member of the family. A diver or loon"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%91%D0%BA%D0%B2%D0%B0%D1%91",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%91%D0%BA%D0%B2%D0%B0%D1%91",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed or conflated gloss; source context required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0036",
+      "lemma": "ӄипуӄ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "humpback whale (Megaptera novaeangliae)"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%84%D0%B8%D0%BF%D1%83%D3%84",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%84%D0%B8%D0%BF%D1%83%D3%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0037",
+      "lemma": "мычыквын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "shirt"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D1%87%D1%8B%D0%BA%D0%B2%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D1%87%D1%8B%D0%BA%D0%B2%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0038",
+      "lemma": "ӄонагтэ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "pants, trousers"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%84%D0%BE%D0%BD%D0%B0%D0%B3%D1%82%D1%8D",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%84%D0%BE%D0%BD%D0%B0%D0%B3%D1%82%D1%8D",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0039",
+      "lemma": "нымытван",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "address"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BD%D1%8B%D0%BC%D1%8B%D1%82%D0%B2%D0%B0%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BD%D1%8B%D0%BC%D1%8B%D1%82%D0%B2%D0%B0%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0040",
+      "lemma": "ӄаӄытъэӄ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "albatross"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%84%D0%B0%D3%84%D1%8B%D1%82%D1%8A%D1%8D%D3%84",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%84%D0%B0%D3%84%D1%8B%D1%82%D1%8A%D1%8D%D3%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0041",
+      "lemma": "кэмэтъыран",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "barn"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%8D%D0%BC%D1%8D%D1%82%D1%8A%D1%8B%D1%80%D0%B0%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%8D%D0%BC%D1%8D%D1%82%D1%8A%D1%8B%D1%80%D0%B0%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0042",
+      "lemma": "ейвэл",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "orphan"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B5%D0%B9%D0%B2%D1%8D%D0%BB",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B5%D0%B9%D0%B2%D1%8D%D0%BB",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0043",
+      "lemma": "илиил",
+      "transliteration": null,
+      "ipa": "/iɬiːɬ/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "rain"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%B8%D0%B8%D0%BB",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%B8%D0%B8%D0%BB",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0044",
+      "lemma": "ачынеӈ",
+      "transliteration": null,
+      "ipa": "/at͡ʃənjeŋ/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "fish trap"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%8B%D0%BD%D0%B5%D3%88",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%8B%D0%BD%D0%B5%D3%88",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0045",
+      "lemma": "гыт",
+      "transliteration": null,
+      "ipa": "/ɣət̚/",
+      "partOfSpeech": "pronoun",
+      "glosses": [
+        "you second-person singular, absolutive case"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B3%D1%8B%D1%82",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B3%D1%8B%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0046",
+      "lemma": "нэнэны",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "child"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BD%D1%8D%D0%BD%D1%8D%D0%BD%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BD%D1%8D%D0%BD%D1%8D%D0%BD%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0047",
+      "lemma": "купрэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "net used for catching seals"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BF%D1%80%D1%8D%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BF%D1%80%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0048",
+      "lemma": "мимыԓ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "water, liquid"
+      ],
+      "examples": [
+        {
+          "source": "Мимыԓ амманаӈ нэнанэпыркагтавӄэн",
+          "target": "The water threw spindrift in all directions",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BC%D1%8B%D4%93",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BC%D1%8B%D4%93",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BC%D1%8B%D4%93",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0049",
+      "lemma": "йъиԓгын",
+      "transliteration": null,
+      "ipa": "[jʔiɬɣən]",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "moon",
+        "month"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B9%D1%8A%D0%B8%D4%93%D0%B3%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B9%D1%8A%D0%B8%D4%93%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0050",
+      "lemma": "аӈатԓыӈын",
+      "transliteration": null,
+      "ipa": "[aŋatɬəŋən]",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "star"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D3%88%D0%B0%D1%82%D4%93%D1%8B%D3%88%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D3%88%D0%B0%D1%82%D4%93%D1%8B%D3%88%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0051",
+      "lemma": "нанӄыԓъын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "adjective",
+      "glosses": [
+        "pregnant"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D3%84%D1%8B%D4%93%D1%8A%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D3%84%D1%8B%D4%93%D1%8A%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0052",
+      "lemma": "мгок",
+      "transliteration": null,
+      "ipa": "[mɣokx]",
+      "partOfSpeech": "verb",
+      "glosses": [
+        "to start"
+      ],
+      "examples": [
+        {
+          "source": "Айвэ гамгоԓен ынныӈыттыгыргын",
+          "target": "Yesterday, the fishing season began",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B3%D0%BE%D0%BA",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B3%D0%BE%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D0%B3%D0%BE%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0053",
+      "lemma": "Ə̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%C6%8F%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%C6%8F%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0054",
+      "lemma": "Ə̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%C6%8F%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%C6%8F%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0055",
+      "lemma": "Ə̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%C6%8F%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%C6%8F%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0056",
+      "lemma": "ə̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%C9%99%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%C9%99%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0057",
+      "lemma": "ə̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%C9%99%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%C9%99%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0058",
+      "lemma": "ə̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%C9%99%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%C9%99%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0059",
+      "lemma": "ааӈкы",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "open"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%B0%D3%88%D0%BA%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%B0%D3%88%D0%BA%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0060",
+      "lemma": "атчатык",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "verb",
+      "glosses": [
+        "tumble",
+        "turn over",
+        "fall"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0061",
+      "lemma": "айваԓ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "alee",
+        "south"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B2%D0%B0%D4%93",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B2%D0%B0%D4%93",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0062",
+      "lemma": "айвэ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "adverb",
+      "glosses": [
+        "yesterday"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B2%D1%8D",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B2%D1%8D",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0063",
+      "lemma": "аԓваӈ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "adjective",
+      "glosses": [
+        "otherwise, differently",
+        "in another way"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%B0%D4%93%D0%B2%D0%B0%D3%88",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%B0%D4%93%D0%B2%D0%B0%D3%88",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0064",
+      "lemma": "кыԓявык",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "verb",
+      "glosses": [
+        "run (in measured steps)"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D4%93%D1%8F%D0%B2%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D4%93%D1%8F%D0%B2%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0065",
+      "lemma": "мэтԓыӈэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "five"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8D%D1%82%D4%93%D1%8B%D3%88%D1%8D%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BC%D1%8D%D1%82%D4%93%D1%8B%D3%88%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0066",
+      "lemma": "ыннэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "one"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D0%BD%D1%8D%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D0%BD%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0067",
+      "lemma": "ыннэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "one"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D0%BD%D1%8D%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D0%BD%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate same-lemma extraction; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0068",
+      "lemma": "ыʼԓгу ԓыӈык",
+      "transliteration": null,
+      "ipa": "[əˈɬɣu ɬəŋək]",
+      "partOfSpeech": "verb",
+      "glosses": [
+        "to love"
+      ],
+      "examples": [
+        {
+          "source": "Ыныгрээн варкын ытлён, ы’лгу лынъё ӈэвъэн",
+          "target": "She is with him, his beloved wife",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%8B%CA%BC%D4%93%D0%B3%D1%83%20%D4%93%D1%8B%D3%88%D1%8B%D0%BA",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%CA%BC%D4%93%D0%B3%D1%83%20%D4%93%D1%8B%D3%88%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%CA%BC%D4%93%D0%B3%D1%83%20%D4%93%D1%8B%D3%88%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0069",
+      "lemma": "тиркытир",
+      "transliteration": null,
+      "ipa": "[tirkətir]",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "sun"
+      ],
+      "examples": [
+        {
+          "source": "Ынан вытку ԓьунин тиркытир, ӈаргынэн",
+          "target": "For the first time he saw the sun, the universe",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%BA%D1%8B%D1%82%D0%B8%D1%80",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%BA%D1%8B%D1%82%D0%B8%D1%80",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%BA%D1%8B%D1%82%D0%B8%D1%80",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0070",
+      "lemma": "эӈэр",
+      "transliteration": null,
+      "ipa": "[eŋer]",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "star"
+      ],
+      "examples": [
+        {
+          "source": "Ныпинтыӄэтӄинэт эӈэрти, виврэтыԓьыт",
+          "target": "Stars appeared and sparkled",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D1%80",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D1%80",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D1%80",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0071",
+      "lemma": "ыʼԓьыԓ",
+      "transliteration": null,
+      "ipa": "[ʔəɬʔəɬ]",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "snow"
+      ],
+      "examples": [
+        {
+          "source": "Яӈаӄай ы’ԓьыԓе гэйыръэтԓин",
+          "target": "The small store-room was filled with snow",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%8B%CA%BC%D4%93%D1%8C%D1%8B%D4%93",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%CA%BC%D4%93%D1%8C%D1%8B%D4%93",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%CA%BC%D4%93%D1%8C%D1%8B%D4%93",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0072",
+      "lemma": "ытԓыгын",
+      "transliteration": null,
+      "ipa": "/ətɬəɣən/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "father"
+      ],
+      "examples": [
+        {
+          "source": "Ӈээккэӄэй ытԓыгэ нинимтиӄин",
+          "target": "The father carried his daughter on his back. (literally: The daughter was back-carried by her father.)",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D4%93%D1%8B%D0%B3%D1%8B%D0%BD",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D4%93%D1%8B%D0%B3%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D4%93%D1%8B%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0073",
+      "lemma": "ытԓьа",
+      "transliteration": null,
+      "ipa": "/ətɬʔa/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "mother"
+      ],
+      "examples": [
+        {
+          "source": "Гэвъиԓинэт ытԓьа ынкъам ытԓыгын",
+          "target": "Her mother and father died",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D4%93%D1%8C%D0%B0",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D4%93%D1%8C%D0%B0",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D4%93%D1%8C%D0%B0",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0074",
+      "lemma": "ыммэмы",
+      "transliteration": null,
+      "ipa": "/əmmemə/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "mom, mummy"
+      ],
+      "examples": [
+        {
+          "source": "Эӄуԓикэ! Ӄэйӈун ыммэмэнэ рытра наръуваԓтаԓямык!",
+          "target": "Keep silent ! Or mom will spank us with a tendon",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BC%D0%BC%D1%8D%D0%BC%D1%8B",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BC%D0%BC%D1%8D%D0%BC%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BC%D0%BC%D1%8D%D0%BC%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0075",
+      "lemma": "ройыръын",
+      "transliteration": null,
+      "ipa": "/rojərʔən/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "family"
+      ],
+      "examples": [
+        {
+          "source": "Ынӈин ытԓён мэйӈэтгъи ройыръык аԓвавкыԓьо",
+          "target": "Thus she grew able to do everything in her family",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%B9%D1%8B%D1%80%D1%8A%D1%8B%D0%BD",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%B9%D1%8B%D1%80%D1%8A%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%B9%D1%8B%D1%80%D1%8A%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0076",
+      "lemma": "тумгытум",
+      "transliteration": null,
+      "ipa": "/tumɣətum/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "friend, comrade, fellow, companion",
+        "spouse",
+        "assistant spirit"
+      ],
+      "examples": [
+        {
+          "source": "Тумгэ ы'ԓгу ныԓгыӄин Володя",
+          "target": "The friends liked Volodya",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+            "languageSection": "Chukchi"
+          }
+        },
+        {
+          "source": "Ӄаата тумгытум рэԓьугнин, ӄымэԓ-ым ӈирэргэри тырэнуӈынэт",
+          "target": "The reindeer will find a fellow and so I will eat both of them",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+            "languageSection": "Chukchi"
+          }
+        },
+        {
+          "source": "О’мрыӈана тумгытум ивнин",
+          "target": "Omryna said to her husband",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+            "languageSection": "Chukchi"
+          }
+        },
+        {
+          "source": "Эрмэчьэ инэнпиривнин эвиръэ тумгытум",
+          "target": "The strong man took clothes for his wife",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+            "languageSection": "Chukchi"
+          }
+        },
+        {
+          "source": "Ӄэйӈун гынан ръэнут тумгу нинэԓгигыт?",
+          "target": "Whom do you usually take as an assistant spirit?",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0077",
+      "lemma": "тумгытум",
+      "transliteration": null,
+      "ipa": "/tumɣətum/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "comrade, companion"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%B3%D1%8B%D1%82%D1%83%D0%BC",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0078",
+      "lemma": "эӈэӈыԓьын",
+      "transliteration": null,
+      "ipa": "/eŋeŋəɬʔən/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "shaman"
+      ],
+      "examples": [
+        {
+          "source": "Ынин-ым ытԓыгын эӈэӈыԓьын",
+          "target": "His father, however, is a shaman",
+          "provenance": {
+            "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D3%88%D1%8B%D4%93%D1%8C%D1%8B%D0%BD",
+            "languageSection": "Chukchi"
+          }
+        }
+      ],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D3%88%D1%8B%D4%93%D1%8C%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D3%88%D1%8B%D4%93%D1%8C%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0079",
+      "lemma": "рылгылгын",
+      "transliteration": null,
+      "ipa": "/rəlɣəlɣən/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "finger",
+        "toe"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D0%BB%D0%B3%D1%8B%D0%BB%D0%B3%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D0%BB%D0%B3%D1%8B%D0%BB%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0080",
+      "lemma": "ыттʼын",
+      "transliteration": null,
+      "ipa": "/ʔəttʔən/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "dog"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D1%82%CA%BC%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%D1%82%D1%82%CA%BC%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0081",
+      "lemma": "эвэч",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "a kind of fish (a salmon or a trout)"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%8D%D1%87",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%8D%D1%87",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0082",
+      "lemma": "ӈыраӄ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "four"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8B%D1%80%D0%B0%D3%84",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8B%D1%80%D0%B0%D3%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0083",
+      "lemma": "ӈыроӄ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "three"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8B%D1%80%D0%BE%D3%84",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8B%D1%80%D0%BE%D3%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0084",
+      "lemma": "ӈэръамытлыӈэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "seven"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8D%D1%80%D1%8A%D0%B0%D0%BC%D1%8B%D1%82%D0%BB%D1%8B%D3%88%D1%8D%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8D%D1%80%D1%8A%D0%B0%D0%BC%D1%8B%D1%82%D0%BB%D1%8B%D3%88%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0085",
+      "lemma": "уттуут",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "tree"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%83%D1%82%D1%82%D1%83%D1%83%D1%82",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%83%D1%82%D1%82%D1%83%D1%83%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0086",
+      "lemma": "ръэв",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "whale"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8A%D1%8D%D0%B2",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8A%D1%8D%D0%B2",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0087",
+      "lemma": "умӄы",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "polar bear"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%83%D0%BC%D3%84%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%83%D0%BC%D3%84%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0088",
+      "lemma": "яраӈы",
+      "transliteration": null,
+      "ipa": "/jaraŋə/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "house",
+        "yaranga"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8F%D1%80%D0%B0%D3%88%D1%8B",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8F%D1%80%D0%B0%D3%88%D1%8B",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0089",
+      "lemma": "плакылгын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "boot (made of reindeer skin)"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%BF%D0%BB%D0%B0%D0%BA%D1%8B%D0%BB%D0%B3%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%BF%D0%BB%D0%B0%D0%BA%D1%8B%D0%BB%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0090",
+      "lemma": "эргылъын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "adjective",
+      "glosses": [
+        "bright"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B3%D1%8B%D0%BB%D1%8A%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B3%D1%8B%D0%BB%D1%8A%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0091",
+      "lemma": "чьачаӈԓьоргын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "January"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%87%D1%8C%D0%B0%D1%87%D0%B0%D3%88%D4%93%D1%8C%D0%BE%D1%80%D0%B3%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%87%D1%8C%D0%B0%D1%87%D0%B0%D3%88%D4%93%D1%8C%D0%BE%D1%80%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0092",
+      "lemma": "экык",
+      "transliteration": null,
+      "ipa": "/ekəkx/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "son"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0093",
+      "lemma": "ӈээкык",
+      "transliteration": null,
+      "ipa": "/ŋeːkəkx/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "daughter"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8D%D1%8D%D0%BA%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8D%D1%8D%D0%BA%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0094",
+      "lemma": "рэӄокаԓгын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "arctic fox, ()"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8D%D3%84%D0%BE%D0%BA%D0%B0%D4%93%D0%B3%D1%8B%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8D%D3%84%D0%BE%D0%BA%D0%B0%D4%93%D0%B3%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed gloss; source-supported correction requires human confirmation"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0095",
+      "lemma": "увеԓен",
+      "transliteration": null,
+      "ipa": "[uβeɬen]",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "A thawed patch of land"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%83%D0%B2%D0%B5%D4%93%D0%B5%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%83%D0%B2%D0%B5%D4%93%D0%B5%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0096",
+      "lemma": "рыӄамэтвавык",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "verb",
+      "glosses": [
+        "to feed"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D3%84%D0%B0%D0%BC%D1%8D%D1%82%D0%B2%D0%B0%D0%B2%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D3%84%D0%B0%D0%BC%D1%8D%D1%82%D0%B2%D0%B0%D0%B2%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0097",
+      "lemma": "рыӄирыӄ",
+      "transliteration": null,
+      "ipa": "/rəqirəq/",
+      "partOfSpeech": "noun",
+      "glosses": [
+        "pus"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D3%84%D0%B8%D1%80%D1%8B%D3%84",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D3%84%D0%B8%D1%80%D1%8B%D3%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0098",
+      "lemma": "рыԓыватыԓьын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "suckling"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D4%93%D1%8B%D0%B2%D0%B0%D1%82%D1%8B%D4%93%D1%8C%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D4%93%D1%8B%D0%B2%D0%B0%D1%82%D1%8B%D4%93%D1%8C%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0099",
+      "lemma": "рыԓык",
+      "transliteration": null,
+      "ipa": "/rəɬəq/|[rəɮəkx]",
+      "partOfSpeech": "verb",
+      "glosses": [
+        "to crawl in",
+        "to come in"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D4%93%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D4%93%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0100",
+      "lemma": "рымагтайвэ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "adverb",
+      "glosses": [
+        "day before yesterday"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D0%BC%D0%B0%D0%B3%D1%82%D0%B0%D0%B9%D0%B2%D1%8D",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D0%BC%D0%B0%D0%B3%D1%82%D0%B0%D0%B9%D0%B2%D1%8D",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0101",
+      "lemma": "Ь̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%AC%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%AC%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0102",
+      "lemma": "Ь̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D0%AC%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D0%AC%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0103",
+      "lemma": "ь̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8C%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8C%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0104",
+      "lemma": "ь̄",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "letter",
+      "glosses": [
+        "{{ng|A letter of the .}}"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8C%CC%84",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8C%CC%84",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "malformed obsolete-letter gloss; source confirmation required"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0105",
+      "lemma": "эймитык",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "verb",
+      "glosses": [
+        "take",
+        "receive",
+        "catch",
+        "kill reindeer (to eat)",
+        "seize"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%B9%D0%BC%D0%B8%D1%82%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%B9%D0%BC%D0%B8%D1%82%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0106",
+      "lemma": "эԓеӈ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "summer"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D4%93%D0%B5%D3%88",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D4%93%D0%B5%D3%88",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0107",
+      "lemma": "эӈэӈ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "spirit",
+        "God"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D3%88",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D3%88%D1%8D%D3%88",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0108",
+      "lemma": "эвын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "adverb",
+      "glosses": [
+        "natural, real, permanent",
+        "without fail, definitely",
+        "it appears so",
+        "already"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "English typo corrected from source-derived extraction; source retained"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      },
+      "originalGlosses": [
+        "natural, real, permanent",
+        "without fail, definitely",
+        "it appear so",
+        "already"
+      ]
+    },
+    {
+      "id": "wiktionary-ckt-0109",
+      "lemma": "ятъёԓ",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "noun",
+      "glosses": [
+        "fox"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8F%D1%82%D1%8A%D1%91%D4%93",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8F%D1%82%D1%8A%D1%91%D4%93",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0110",
+      "lemma": "ръэнут",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "pronoun",
+      "glosses": [
+        "what",
+        "something"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8A%D1%8D%D0%BD%D1%83%D1%82",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8A%D1%8D%D0%BD%D1%83%D1%82",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0111",
+      "lemma": "руԓвык",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "verb",
+      "glosses": [
+        "support",
+        "hold up"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D4%93%D0%B2%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D4%93%D0%B2%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0112",
+      "lemma": "рытгэватык",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "verb",
+      "glosses": [
+        "forget"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D1%82%D0%B3%D1%8D%D0%B2%D0%B0%D1%82%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D1%82%D0%B3%D1%8D%D0%B2%D0%B0%D1%82%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0113",
+      "lemma": "эргыԓьын",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "adjective",
+      "glosses": [
+        "bright (about day, morning)"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B3%D1%8B%D4%93%D1%8C%D1%8B%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B3%D1%8B%D4%93%D1%8C%D1%8B%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0114",
+      "lemma": "энарэрык",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "verb",
+      "glosses": [
+        "look for",
+        "search"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B0%D1%80%D1%8D%D1%80%D1%8B%D0%BA",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B0%D1%80%D1%8D%D1%80%D1%8B%D0%BA",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0115",
+      "lemma": "ыннанмытԓыӈэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "six"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D0%BD%D0%B0%D0%BD%D0%BC%D1%8B%D1%82%D4%93%D1%8B%D3%88%D1%8D%D0%BD",
+      "status": "unverified",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D0%BD%D0%B0%D0%BD%D0%BC%D1%8B%D1%82%D4%93%D1%8B%D3%88%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    },
+    {
+      "id": "wiktionary-ckt-0116",
+      "lemma": "ӈэръамытԓыӈэн",
+      "transliteration": null,
+      "ipa": null,
+      "partOfSpeech": "numeral",
+      "glosses": [
+        "seven"
+      ],
+      "examples": [],
+      "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8D%D1%80%D1%8A%D0%B0%D0%BC%D1%8B%D1%82%D4%93%D1%8B%D3%88%D1%8D%D0%BD",
+      "status": "quarantine",
+      "provenance": {
+        "source": "https://en.wiktionary.org/wiki/%D3%88%D1%8D%D1%80%D1%8A%D0%B0%D0%BC%D1%8B%D1%82%D4%93%D1%8B%D3%88%D1%8D%D0%BD",
+        "languageSection": "Chukchi",
+        "extraction": "Wiktionary Chukchi section with explicit gloss",
+        "reviewStatus": "unverified"
+      },
+      "review": {
+        "qaFlags": [
+          "duplicate seven entry; pending canonical merge"
+        ],
+        "reviewedBy": "lexicon-qa-gate"
+      }
+    }
+  ],
+  "statusVocabulary": [
+    "unverified",
+    "quarantine",
+    "reviewed",
+    "approved"
+  ],
+  "normalization": "NFC; sourceForm is retained when normalization changes code points.",
+  "qaGate": {
+    "decision": "REJECT_PROMOTION",
+    "lastReview": "lexicon-qa-gate",
+    "quarantinedCount": 28,
+    "promotionBlocked": true
+  }
+}

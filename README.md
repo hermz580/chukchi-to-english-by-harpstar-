@@ -1,35 +1,70 @@
 # ChukchiBridge
 
-ChukchiBridge is a web-based translator for the Chukchi language, built to help travelers and language enthusiasts easily understand and learn key phrases.
+ChukchiBridge is a Harp★Star web translator for **Chukchi ↔ English**. It keeps provider credentials on the server and returns machine-generated translations with examples, notes, and an explicit confidence level.
 
-## Problem
-Translating rare or under-represented languages like Chukchi can be challenging. ChukchiBridge solves this by providing a reliable, AI-powered bridge between Chukchi and English, with contextual examples for better understanding.
+## Current features
 
-## Features
-- AI-Powered Translation: Uses advanced LLMs to provide accurate translations.
-- Contextual Learning: Every translation comes with an example sentence to show correct usage.
-- Built-in Phrasebook: A handy reference for common greetings and phrases.
-- Flexible Provider Support: Bring your own LLM provider and model.
+- Bidirectional Chukchi → English and English → Chukchi translation
+- Server-owned provider boundary (`POST /api/translate`)
+- Provider-neutral OpenAI-compatible adapter with presets for OpenAI, OpenRouter, Ollama, LM Studio, and custom endpoints
+- Structured examples, notes, and low/medium/high confidence
+- Input validation and a 4,000-character request limit
+- Curated phrasebook UI (content still requires fluent-speaker review)
+- Versioned research lexicon at `data/lexicon.json` with source URLs, IPA when available, glosses, examples, and review status
+- Lexicon QA gate currently blocks promotion; quarantined records remain excluded from translation truth until review
 
-## Quick Start
-1. Clone the repository.
-2. Install dependencies: `npm install`
-3. Set your environment variables (see Configuration).
-4. Run: `npm run dev`
+## Quick start
+
+```bash
+npm install
+cp .env.example .env
+# Add LLM_API_KEY to .env
+npm run dev
+```
+
+Open <http://localhost:3000>.
 
 ## Configuration
+
 | Variable | Description | Default |
 | :--- | :--- | :--- |
-| `LLM_PROVIDER` | 'gemini', 'openai', etc. | 'gemini' |
-| `LLM_MODEL` | The model to use | 'gemini-1.5-flash' |
-| `LLM_API_KEY` | API Key for the provider | Required |
-| `LLM_BASE_URL` | Optional base URL | None |
+| `LLM_PROVIDER` | `demo`, `openai`, `openrouter`, `ollama`, `lmstudio`, or `openai-compatible` | `demo` for smoke testing |
+| `LLM_MODEL` | Provider model identifier | `demo` in demo mode |
+| `LLM_API_KEY` | Server-side provider key; optional for demo/local Ollama/LM Studio | Required for hosted providers |
+| `LLM_BASE_URL` | Custom OpenAI-compatible `/v1` endpoint | Required for `openai-compatible` |
+| `PORT` | HTTP server port | `3000` |
 
-## About
-Built by [Harp★Star](https://harpstarunlimited.com) to bridge linguistic gaps.
+## API contract
+
+`POST /api/translate`
+
+```json
+{
+  "text": "source text",
+  "direction": "chukchi-to-english"
+}
+```
+
+`direction` must be `chukchi-to-english` or `english-to-chukchi`. Successful responses contain `translation`, `exampleSource`, `exampleTarget`, `notes`, and `confidence`. Invalid requests return a JSON `error` with HTTP 400 or 413.
+
+## Verification
+
+```bash
+npm run build
+npx tsc --noEmit
+npm run validate:lexicon
+```
+
+The repository's Hermes Vite verification recipe currently expects Bun. If Bun is unavailable, use the npm commands above and report that limitation rather than treating the npm run as a Bun verification.
 
 ## Limitations
-- Does not support real-time audio translation.
+
+Chukchi is a low-resource language with dialect, orthography, and data-coverage challenges. Results may be wrong or overconfident; they are not authoritative translations. Review important text with a fluent Chukchi speaker or a trusted linguistic source. The project does not yet have an expert-reviewed evaluation corpus, live audio translation, or a verified phrasebook source record.
+
+## About
+
+Built by [Harp★Star](https://harpstarunlimited.com) to bridge linguistic gaps.
 
 ## License
+
 MIT
