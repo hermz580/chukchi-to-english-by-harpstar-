@@ -1,5 +1,5 @@
 {
-  "name": "chukchi-bridge",
+  "name": "chuukese-bridge",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,8 @@
     "start": "node dist/server.cjs"
   },
   "dependencies": {
+    "@types/dotenv": "^6.1.1",
+    "dotenv": "^18.0.7",
     "express": "^5.2.1",
     "openai": "^7.4.0",
     "react": "^19.2.0",

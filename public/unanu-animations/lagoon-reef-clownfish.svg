@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" height="100%" viewBox="0 0 400 400" width="100%">
+<defs>
+<radialGradient cx="50%" cy="50%" id="reefBg" r="60%">
+<stop offset="0%" stop-color="#0f5168"></stop>
+<stop offset="100%" stop-color="#06222f"></stop>
+</radialGradient>
+</defs>
+<style>
+    @keyframes fishSwim {
+      0% { transform: translateX(-40px) translateY(0px) rotate(0deg); }
+      50% { transform: translateX(40px) translateY(-12px) rotate(2deg); }
+      100% { transform: translateX(-40px) translateY(0px) rotate(0deg); }
+    }
+    @keyframes finWiggle {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(16deg); }
+    }
+    @keyframes tailWag {
+      0%, 100% { transform: scaleX(1); }
+      50% { transform: scaleX(0.75) skewY(8deg); }
+    }
+    .fish-main { animation: fishSwim 5s ease-in-out infinite; transform-origin: 200px 200px; }
+    .pectoral-fin { animation: finWiggle 1.5s ease-in-out infinite; transform-origin: 175px 210px; }
+    .tail-fin { animation: tailWag 0.9s ease-in-out infinite; transform-origin: 280px 200px; }
+  </style>
+<circle cx="200" cy="200" fill="url(#reefBg)" r="180" stroke="#f4a261" stroke-width="4"></circle>
+<circle cx="200" cy="200" fill="none" r="172" stroke="#06222f" stroke-width="2"></circle>
+<!-- Coral Silhouette in Background -->
+<path d="M 50 350 C 70 290 85 270 95 300 C 110 260 135 270 140 350 Z" fill="#e76f51" opacity="0.35"></path>
+<path d="M 280 350 C 295 280 320 270 335 310 C 345 290 365 300 370 350 Z" fill="#2a9d8f" opacity="0.35"></path>
+<!-- Clownfish / Reef Fish Group -->
+<g class="fish-main">
+<!-- Tail Fin -->
+<path class="tail-fin" d="M 275 200 L 335 155 C 330 185 330 215 335 245 Z" fill="#f77f00" stroke="#000" stroke-width="3"></path>
+<path d="M 320 170 C 318 190 318 210 320 230" fill="none" stroke="#ffffff" stroke-width="5"></path>
+<!-- Dorsal Fin -->
+<path d="M 150 145 C 190 120 240 130 265 155 C 240 152 185 150 150 145 Z" fill="#f77f00" stroke="#000" stroke-width="3"></path>
+<!-- Ventral / Pelvic Fin -->
+<path d="M 180 250 C 210 275 240 265 250 245 C 220 248 195 248 180 250 Z" fill="#d62828" stroke="#000" stroke-width="2.5"></path>
+<!-- Body -->
+<ellipse cx="195" cy="200" fill="#f77f00" rx="85" ry="52" stroke="#000" stroke-width="3.5"></ellipse>
+<!-- White Stripes (Bordered in Black) -->
+<!-- Head Stripe -->
+<path d="M 148 155 C 160 185 160 215 148 245 C 138 240 138 160 148 155 Z" fill="#ffffff" stroke="#000" stroke-width="2.5"></path>
+<!-- Mid Body Stripe -->
+<path d="M 205 148 C 225 185 225 215 205 252 C 192 248 192 152 205 148 Z" fill="#ffffff" stroke="#000" stroke-width="2.5"></path>
+<!-- Tail Base Stripe -->
+<path d="M 265 175 C 275 190 275 210 265 225 C 258 222 258 178 265 175 Z" fill="#ffffff" stroke="#000" stroke-width="2"></path>
+<!-- Pectoral Fin (Foreground) -->
+<g class="pectoral-fin">
+<path d="M 175 205 C 195 215 210 235 195 245 C 180 250 165 230 175 205 Z" fill="#fcbf49" stroke="#000" stroke-width="2.5"></path>
+</g>
+<!-- Eye -->
+<circle cx="130" cy="188" fill="#ffffff" r="8" stroke="#000" stroke-width="2"></circle>
+<circle cx="128" cy="188" fill="#000000" r="4.5"></circle>
+<circle cx="126" cy="186" fill="#ffffff" r="1.5"></circle>
+<!-- Mouth -->
+<path d="M 110 205 C 116 208 122 206 125 202" fill="none" stroke="#000" stroke-width="2.5"></path>
+</g>
+<text fill="#f4a261" font-family="Georgia, serif" font-size="14" font-weight="bold" letter-spacing="3" text-anchor="middle" x="200" y="365">LAGOON REEF CLOWNFISH</text>
+</svg>

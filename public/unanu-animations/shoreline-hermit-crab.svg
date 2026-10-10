@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" height="100%" viewBox="0 0 400 400" width="100%">
+<defs>
+<radialGradient cx="50%" cy="50%" id="sandBg" r="60%">
+<stop offset="0%" stop-color="#faedd7"></stop>
+<stop offset="100%" stop-color="#dfc79b"></stop>
+</radialGradient>
+</defs>
+<style>
+    @keyframes crabScurry {
+      0% { transform: translateX(-25px) rotate(-3deg); }
+      50% { transform: translateX(25px) rotate(3deg); }
+      100% { transform: translateX(-25px) rotate(-3deg); }
+    }
+    @keyframes clawSnipLeft {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(-15deg); }
+    }
+    @keyframes clawSnipRight {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(15deg); }
+    }
+    @keyframes legWalk1 {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(12deg); }
+    }
+    @keyframes legWalk2 {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(-12deg); }
+    }
+    .crab-body-group { animation: crabScurry 3s ease-in-out infinite; transform-origin: 200px 210px; }
+    .claw-l { animation: clawSnipLeft 1.4s ease-in-out infinite; transform-origin: 110px 145px; }
+    .claw-r { animation: clawSnipRight 1.4s ease-in-out infinite; transform-origin: 290px 145px; }
+    .leg-1 { animation: legWalk1 0.7s ease-in-out infinite; transform-origin: 130px 220px; }
+    .leg-2 { animation: legWalk2 0.7s ease-in-out infinite; transform-origin: 270px 220px; }
+  </style>
+<circle cx="200" cy="200" fill="url(#sandBg)" r="180" stroke="#e76f51" stroke-width="4"></circle>
+<circle cx="200" cy="200" fill="none" r="172" stroke="#dfc79b" stroke-width="2"></circle>
+<!-- Sand Ripple Details -->
+<path d="M 60 280 C 130 270 270 290 340 280" fill="none" opacity="0.6" stroke="#c8ad7f" stroke-width="2"></path>
+<path d="M 90 310 C 160 300 240 320 310 310" fill="none" opacity="0.5" stroke="#c8ad7f" stroke-width="1.8"></path>
+<!-- CRAB GROUP -->
+<g class="crab-body-group">
+<!-- Walking Legs (Left) -->
+<g class="leg-1">
+<path d="M 140 200 C 100 205 80 230 70 250" fill="none" stroke="#d64933" stroke-linecap="round" stroke-width="5"></path>
+<path d="M 145 220 C 105 235 90 255 80 280" fill="none" stroke="#d64933" stroke-linecap="round" stroke-width="5"></path>
+<path d="M 150 240 C 120 260 105 285 100 305" fill="none" stroke="#d64933" stroke-linecap="round" stroke-width="5"></path>
+</g>
+<!-- Walking Legs (Right) -->
+<g class="leg-2">
+<path d="M 260 200 C 300 205 320 230 330 250" fill="none" stroke="#d64933" stroke-linecap="round" stroke-width="5"></path>
+<path d="M 255 220 C 295 235 310 255 320 280" fill="none" stroke="#d64933" stroke-linecap="round" stroke-width="5"></path>
+<path d="M 250 240 C 280 260 295 285 300 305" fill="none" stroke="#d64933" stroke-linecap="round" stroke-width="5"></path>
+</g>
+<!-- Claw Arms -->
+<path d="M 150 180 C 120 160 110 140 110 135" fill="none" stroke="#e76f51" stroke-linecap="round" stroke-width="8"></path>
+<path d="M 250 180 C 280 160 290 140 290 135" fill="none" stroke="#e76f51" stroke-linecap="round" stroke-width="8"></path>
+<!-- Big Claws (Left & Right) -->
+<g class="claw-l">
+<!-- Fixed part & movable pincer -->
+<path d="M 115 135 C 95 105 75 110 65 130 C 55 150 85 165 110 145 Z" fill="#e76f51" stroke="#8b2616" stroke-width="2.5"></path>
+<path d="M 85 110 C 65 95 50 110 55 125 Z" fill="#f4a261" stroke="#8b2616" stroke-width="2"></path>
+</g>
+<g class="claw-r">
+<path d="M 285 135 C 305 105 325 110 335 130 C 345 150 315 165 290 145 Z" fill="#e76f51" stroke="#8b2616" stroke-width="2.5"></path>
+<path d="M 315 110 C 335 95 350 110 345 125 Z" fill="#f4a261" stroke="#8b2616" stroke-width="2"></path>
+</g>
+<!-- Main Carapace Shell -->
+<ellipse cx="200" cy="215" fill="#e76f51" rx="60" ry="42" stroke="#8b2616" stroke-width="3.5"></ellipse>
+<ellipse cx="200" cy="220" fill="#f4a261" opacity="0.6" rx="46" ry="28"></ellipse>
+<!-- Eyestalks & Eyes -->
+<line stroke="#8b2616" stroke-linecap="round" stroke-width="4" x1="182" x2="178" y1="185" y2="162"></line>
+<circle cx="178" cy="160" fill="#ffffff" r="9" stroke="#8b2616" stroke-width="2.5"></circle>
+<circle cx="178" cy="159" fill="#000000" r="4.5"></circle>
+<circle cx="176" cy="157" fill="#ffffff" r="1.5"></circle>
+<line stroke="#8b2616" stroke-linecap="round" stroke-width="4" x1="218" x2="222" y1="185" y2="162"></line>
+<circle cx="222" cy="160" fill="#ffffff" r="9" stroke="#8b2616" stroke-width="2.5"></circle>
+<circle cx="222" cy="159" fill="#000000" r="4.5"></circle>
+<circle cx="220" cy="157" fill="#ffffff" r="1.5"></circle>
+</g>
+<text fill="#e76f51" font-family="Georgia, serif" font-size="14" font-weight="bold" letter-spacing="3" text-anchor="middle" x="200" y="365">SHORELINE HERMIT CRAB</text>
+</svg>

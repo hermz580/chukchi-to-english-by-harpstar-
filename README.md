@@ -1,10 +1,10 @@
-# ChukchiBridge
+# ChuukeseBridge
 
-ChukchiBridge is a Harp★Star web translator for **Chukchi ↔ English**. It keeps provider credentials on the server and returns machine-generated translations with examples, notes, and an explicit confidence level.
+ChuukeseBridge is a Harp★Star web translator for **Chuukese ↔ English**. It keeps provider credentials on the server and returns machine-generated translations with examples, notes, and an explicit confidence level.
 
 ## Current features
 
-- Bidirectional Chukchi → English and English → Chukchi translation
+- Bidirectional Chuukese → English and English → Chuukese translation
 - Server-owned provider boundary (`POST /api/translate`)
 - Provider-neutral OpenAI-compatible adapter with presets for OpenAI, OpenRouter, Ollama, LM Studio, and custom endpoints
 - Structured examples, notes, and low/medium/high confidence
@@ -41,11 +41,11 @@ Open <http://localhost:3000>.
 ```json
 {
   "text": "source text",
-  "direction": "chukchi-to-english"
+  "direction": "chuukese-to-english"
 }
 ```
 
-`direction` must be `chukchi-to-english` or `english-to-chukchi`. Successful responses contain `translation`, `exampleSource`, `exampleTarget`, `notes`, and `confidence`. Invalid requests return a JSON `error` with HTTP 400 or 413.
+`direction` must be `chuukese-to-english` or `english-to-chuukese`. Successful responses contain `translation`, `exampleSource`, `exampleTarget`, `notes`, and `confidence`. Invalid requests return a JSON `error` with HTTP 400 or 413.
 
 ## Verification
 
@@ -59,7 +59,7 @@ The repository's Hermes Vite verification recipe currently expects Bun. If Bun i
 
 ## Limitations
 
-Chukchi is a low-resource language with dialect, orthography, and data-coverage challenges. Results may be wrong or overconfident; they are not authoritative translations. Review important text with a fluent Chukchi speaker or a trusted linguistic source. The project does not yet have an expert-reviewed evaluation corpus, live audio translation, or a verified phrasebook source record.
+Chuukese is a low-resource language with dialect, orthography, and data-coverage challenges. Results may be wrong or overconfident; they are not authoritative translations. Review important text with a fluent Chuukese speaker or a trusted linguistic source. The project does not yet have an expert-reviewed evaluation corpus, live audio translation, or a verified phrasebook source record.
 
 ## About
 

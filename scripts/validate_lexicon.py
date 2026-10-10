@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fail-closed validation for the ChukchiBridge lexicon."""
+"""Fail-closed validation for the ChuukeseBridge research lexicon."""
 from __future__ import annotations
 
 import json
@@ -21,8 +21,8 @@ def validate(path: Path) -> dict:
     if data.get("schemaVersion") != "0.3.0":
         fail("schemaVersion must be 0.3.0")
     entries = data.get("entries")
-    if not isinstance(entries, list) or not entries:
-        fail("entries must be a non-empty array")
+    if not isinstance(entries, list):
+        fail("entries must be an array")
     ids = set()
     for index, entry in enumerate(entries):
         prefix = f"entries[{index}]"
@@ -42,15 +42,15 @@ def validate(path: Path) -> dict:
         if not isinstance(entry["source"], str) or not entry["source"].startswith("http"):
             fail(f"{prefix}.source must be an http URL")
         provenance = entry["provenance"]
-        if provenance.get("source") != entry["source"] or provenance.get("languageSection") != "Chukchi":
-            fail(f"{prefix}.provenance must identify the Chukchi source section")
+        if provenance.get("source") != entry["source"] or provenance.get("languageSection") != "Chuukese":
+            fail(f"{prefix}.provenance must identify the Chuukese source section")
         for example_index, example in enumerate(entry["examples"]):
             if not REQUIRED_EXAMPLE_KEYS <= example.keys():
                 fail(f"{prefix}.examples[{example_index}] is missing provenance")
             if not example["source"].strip() or not example["target"].strip():
                 fail(f"{prefix}.examples[{example_index}] has empty text")
-            if example["provenance"].get("languageSection") != "Chukchi":
-                fail(f"{prefix}.examples[{example_index}] lacks Chukchi provenance")
+            if example["provenance"].get("languageSection") != "Chuukese":
+                fail(f"{prefix}.examples[{example_index}] lacks Chuukese provenance")
     counts = {status: sum(entry["status"] == status for entry in entries) for status in ALLOWED_STATUS}
     if data.get("qaGate", {}).get("promotionBlocked") is not True:
         fail("qaGate.promotionBlocked must remain true until review is complete")

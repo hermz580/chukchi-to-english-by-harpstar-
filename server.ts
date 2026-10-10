@@ -1,11 +1,13 @@
+import "dotenv/config";
 import express from "express";
 import path from "path";
 import fs from "fs";
 import { createServer as createViteServer } from "vite";
-import { translate, type Direction } from "./services/llm.js";
+import { translate, type Direction, type Variant } from "./services/llm.js";
 
 const MAX_TEXT_LENGTH = 4000;
-const DIRECTIONS = new Set<Direction>(["chukchi-to-english", "english-to-chukchi"]);
+const DIRECTIONS = new Set<Direction>(["chuukese-to-english", "english-to-chuukese"]);
+const VARIANTS = new Set<Variant>(["chuukese", "unanu-namonuito"]);
 
 function verifyBranding() {
   const brandingFilePath = path.join(process.cwd(), "components/HarpStarBranding.tsx");
@@ -20,14 +22,15 @@ async function startServer() {
   const port = Number(process.env.PORT || 3000);
   app.use(express.json({ limit: "64kb" }));
 
-  app.get("/api/health", (_req, res) => res.json({ ok: true, service: "chukchi-bridge" }));
+  app.get("/api/health", (_req, res) => res.json({ ok: true, service: "chuukese-bridge" }));
   app.post("/api/translate", async (req, res) => {
-    const { text, direction } = req.body ?? {};
+    const { text, direction, variant = "chuukese" } = req.body ?? {};
     if (typeof text !== "string" || !text.trim()) return res.status(400).json({ error: "Text is required." });
     if (text.length > MAX_TEXT_LENGTH) return res.status(413).json({ error: `Text must be ${MAX_TEXT_LENGTH} characters or fewer.` });
     if (typeof direction !== "string" || !DIRECTIONS.has(direction as Direction)) return res.status(400).json({ error: "Choose a supported translation direction." });
+    if (typeof variant !== "string" || !VARIANTS.has(variant as Variant)) return res.status(400).json({ error: "Choose a supported language profile." });
     try {
-      res.json(await translate(text, direction as Direction));
+      res.json(await translate(text, direction as Direction, variant as Variant));
     } catch (error) {
       console.error("Translation request failed:", error);
       const message = error instanceof Error ? error.message : "Translation failed.";

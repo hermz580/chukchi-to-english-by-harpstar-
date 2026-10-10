@@ -1,6 +1,6 @@
 {
-  "name": "ChukchiBridge",
-  "description": "Chukchi language to English translator and phrasebook for travelers.",
+  "name": "ChuukeseBridge",
+  "description": "Chuukese and Unanu/Namonuito to English translator and phrasebook.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_LLM_API"]
 }
